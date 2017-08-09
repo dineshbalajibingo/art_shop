@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Garima Art Shop</string>
+    <string name="comp_name">Garima Art Shop</string>
+
+    <string name="comp_desc">Located in the Kansas City, Garima Art shop has provided the best selection of fine handmade art items in the Overland Park</string>
+    <string name="web_site">Website: www.garimaartshop.com</string>
+
+    <string name="phone_number">Phone: 612-859-6622</string>
+    <string name="hour_of_operation">Hours: 7:00 AM to 6:00 PM</string>
+
+    <string name="direction">Address: 6704 W 141st St, Overland Park, KS 66223</string>
+
+</resources>
