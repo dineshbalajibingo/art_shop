@@ -1,4 +1,5 @@
-#Single Page Art Shop App
+Alt-Single Page Art Shop App
+===============================
 
 [Udacity Android Nanodegree App Project](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 
