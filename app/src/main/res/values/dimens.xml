@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="second_image_margin_left">20dp</dimen>
+    <dimen name="second_image_padding_bottom">20dp</dimen>
+
+
+    <dimen name="linear_layout_width">199dp</dimen>
+    <dimen name="description_text_size">24sp</dimen>
+    <dimen name="description_margin_top">20sp</dimen>
+
+    <dimen name="first_image_width">216dp</dimen>
+</resources>
