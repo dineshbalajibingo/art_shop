@@ -1,4 +1,4 @@
-Alt-Single Page Art Shop App
+Single Page Art Shop App
 ===============================
 
 
